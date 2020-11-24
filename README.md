@@ -6,7 +6,7 @@
 3. Install `yarn`
 
 ## Instructions
-Open Git Bash and run `git clone https://github.com/arminghobadi/silly-story-generator`
-run `cd silly-story-generator`
-run `yarn`
-run `yarn start`
+1. Open Git Bash and run `git clone https://github.com/arminghobadi/silly-story-generator`
+2. run `cd silly-story-generator`
+3. run `yarn`
+4. run `yarn start`
